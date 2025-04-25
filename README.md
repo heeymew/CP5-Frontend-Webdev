@@ -86,5 +86,5 @@ A entrega deve ser realizada no TEAMs na tarefa que foi criada para sua turma / 
 > * A entrega deve ser realiza por apenas um dos integrantes do grupo 
 > * O repositório deve conter RA e Nome completo dos integrantes
 > * Verifique se o link corresponde ao repositório e esteja correto antes de enviar ao Teams 
-> * **Prazo da entrega**: 16/04 
+> * **Prazo da entrega**: 26/04 
 
