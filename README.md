@@ -79,7 +79,7 @@ npm run dev
 
 # O que deve ser entregue?
 
-A entrega deve ser realizada no TEAMs na tarefa que foi criada para sua turma / disciplina (web development) enviando um link para um repositório do github contendo o projeto.
+A entrega deve ser realizada no TEAMs na tarefa que foi criada para sua turma / disciplina (web development) e (frontend) enviando um link para um repositório do github contendo o projeto. **Enviar o mesmo link para as duas tarefas**.
 
 > **IMPORTANTE**
 > * Os grupos podem ter no máximo 6 integrantes
