@@ -6,11 +6,10 @@ function App() {
   return (
     <>
       <div className="">
-        <Icon icon="streamline:class-lesson-solid" className=""/>
-        <span className="">CP5 - Webdev</span>
+        <span className="p-1 mt-1 flex initial bg-gray-300 border rounded-md font-medium text-3x1">CP5</span>
       </div>
-      <div className="">
-        <div className="">
+      <div className="border rounded-lg bg-white p-1 m-1">
+        <div className="p-1 font-bold">
           Fake users list
         </div>
         <hr className="" />
